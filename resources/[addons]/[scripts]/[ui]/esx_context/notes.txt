@@ -1,0 +1,21 @@
+* Add so that you can press either the right mouse button to go back in the menu or a arrow
+* Fix so you can scroll even tho you hold shift
+* Add a arrow to the right if an item have a new list inside of it and show nothing on the ones that don't have
+* Fix that e is the only letter you can put inside of the number input
+* Add so if the text of the title the close button scale with it
+* Fix so that the cursor don't reset when you go into a item
+
+Fixed:
+* The ability to be able to walk around while using the menu
+* Redesigned the menu
+* Added so that the first item/title is sticky to the top when you scroll
+* Able to close with clicking on a button
+* Fix for if no icon is existing that the content inside the item is not pushed out
+* 
+
+
+
+At end to close to a menu:
+end, function(menu)
+    OpenPoliceActionsMenu()
+end)

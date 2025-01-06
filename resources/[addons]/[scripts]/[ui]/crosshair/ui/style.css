@@ -1,0 +1,11 @@
+.crosshair-wrapper {
+  position: absolute;
+  top: 50%;
+  width: 0.5vh;
+  height: 0.5vh;
+  left: 50%;
+  border-radius: 100px;
+  background-color: #fff;
+  box-shadow: 1px 1px 12px black;
+  transform: translateY(-50%) translateX(-50%);
+}

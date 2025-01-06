@@ -1,0 +1,51 @@
+Locales = {}
+
+Locales['en'] = {
+    ['Clear_Alerts'] = 'Alerts have been cleared!',
+    ['Panic_Button'] = 'Panic button activated!',
+    ['Not_Service'] = 'You arent on duty!',
+    ['Panic_01'] = 'Officer ',
+    ['Panic_02'] = ' pressed the panic button, all available units head to the location!',
+    ['Alert_Sent'] = 'Alert sent successfully!',
+    ['Must_Vehicle'] = 'You must be in a vehicle!',
+    ['Alert_Title'] = 'CENTER ALERT',
+    ['Veh_Rob_01'] = 'A subject has stolen a model vehicle ',
+    ['Veh_Rob_02'] = ' in ',
+    ['Shooting_Alert'] = 'Shots have been heard in',
+    ['Blip_Label'] = 'Shoots fired',
+    ['rightdisp'] = 'Go to the right Dispatch',
+    ['leftdisp'] = 'Go to the left Dispatch',
+    ['enterdisp'] = 'Assign the alert Dispatch',
+    ['alert'] = 'Alert',
+    ['alert_1'] = 'Describe the alert',
+    ['Dist_tl'] = 'Distance:',
+    ['Shotting_Title'] = 'Shooting',
+    ['Panic_Title'] = 'PANIC BUTTON',
+    ['Vehicle_Title'] = 'VEHICLE THEFT',
+    ['large_dispatchopen'] = 'Open the Large Dispatch'
+}
+
+Locales['es'] = {
+    ['Clear_Alerts'] = '¡Alertas eliminadas!',
+    ['Panic_Button'] = 'Botón de pánico activado',
+    ['Not_Service'] = '¡No estás de servicio!',
+    ['Panic_01'] = 'El oficial ',
+    ['Panic_02'] = ' acaba de presionar el botón de pánico, todas las unidades disponibles diriganse a la ubicaccion!',
+    ['Alert_Sent'] = 'Alerta enviada correctamente',
+    ['Must_Vehicle'] = '¡Debes de estar en un vehículo!',
+    ['Alert_Title'] = 'ALERTA CENTRAL',
+    ['Veh_Rob_01'] = 'Un sujeto ha robado un vehículo modelo ',
+    ['Veh_Rob_02'] = ' en ',
+    ['Shooting_Alert'] = 'Se han oído disparos por la zona de ',
+    ['Blip_Label'] = 'Disparos',
+    ['rightdisp'] = 'Ir a la derecha Dispatch',
+    ['leftdisp'] = 'Ir a la izquierda Dispatch',
+    ['enterdisp'] = 'Asignar la alerta Dispatch',
+    ['alert'] = 'Alerta',
+    ['alert_1'] = 'Describe la alerta',
+    ['Dist_tl'] = 'Distancia:',
+    ['Shotting_Title'] = 'Disparos',
+    ['Panic_Title'] = 'BOTOTN PANICO',
+    ['Vehicle_Title'] = 'ROBO VEHICULO',
+    ['large_dispatchopen'] = 'Abrir el menu de dispatch grande'
+}

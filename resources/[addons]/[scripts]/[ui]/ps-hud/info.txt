@@ -1,0 +1,1 @@
+To change the performance the main loop is in client.lua:990 or also a comment called HUD Update loop. Also where you can reduce the wait to gain faster hud close.

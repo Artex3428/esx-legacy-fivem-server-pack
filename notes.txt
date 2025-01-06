@@ -1,0 +1,44 @@
+Fix:
+* Animations for cops when aresting people and a handcuff model maybe.
+* Clear up keybinds. the less keybinds the better :)
+* /e command for animations
+
+* A lock script for vehicles where you have keys and whne you have that you get acces to store and lock vehicle. And the owner of vehicle can create new key for vehicle etc at a key shop.
+
+* A cardealer for jobs where a certaint grade can buy vehicles and give it to the college and manage bought vehicles. Or just fix so that you can buy the vehicles in the normal cardealer.
+
+* The circle minimap is fucked when on cayo island. Square advanced notifications is put on the minimap like normal. Lower the blip margin
+
+
+
+Tried:
+* So that it's not a sound when shooting someone in the head on the crosshair script.
+* Npc randomly turning angry / maybe sync is fucked or something
+* Remove insta kill / might only work on players not peds
+* Fix so that you can't bug throw walls etc with animations
+* Chat having multiple emty lines after entering a text with multiple lines.
+* Disable so you can't aim etc while in a vehicle and have the context menu open.
+* Fix so the minimap border is also while on foot now it's only while in vehicle.
+
+
+
+Unclear:
+* The esx_identity might change the year to be first or last depending on where you are from.
+
+
+Future stuff(not important)
+* Fix esx jail menu to be in context menu not menu default.
+
+* Add police and ambulance job blips for the people who is on duty and who have toggled showing their blip.
+
+* Clothing system not working randomly error in server-data folder. / Not important because after error you can open it like normal if you try again
+
+
+
+Stuff to look up
+ESX.RegisterInput it is supose to be like keymapping
+
+
+Language things that is not up to date:
+
+Garage only english with title and acces parking at least(!OBS its alot more than this one just the one i know)

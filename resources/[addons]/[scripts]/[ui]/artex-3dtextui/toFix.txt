@@ -1,0 +1,9 @@
+Maybe you can have something to call to stop drawing the text
+
+The script takes performance even thoe you are not close when used in other scripts.
+
+So still a issue with coordso on the player while the player is by it self outside of other 3d text it works but when close to others it takes more performance the more you walk around.
+
+It resets after you leave the area. But if you gona have the stuff where it's not drawn while bing there it's solved that way.
+
+Right now in the tryToRemovePlayerTextWhenClose.lua file the text gets removed when close to other texts but it wont start drawing when you go outside of the range of other drawn texts.

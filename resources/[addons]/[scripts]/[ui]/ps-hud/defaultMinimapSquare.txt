@@ -1,0 +1,12 @@
+-- Standard minimap
+SetMinimapClipType(1)
+
+SetBlipAlpha(GetNorthRadarBlip(), 255)
+
+SetRadarBigmapEnabled(false, false)
+
+SetMinimapComponentPosition("minimap", "L", "B", -0.0045, 0.002, 0.150, 0.188888)
+
+SetMinimapComponentPosition("minimap_mask", "L", "B", 0.020, 0.032, 0.111, 0.159)
+
+SetMinimapComponentPosition('minimap_blur', 'L', 'B', -0.03, 0.022, 0.266, 0.237)

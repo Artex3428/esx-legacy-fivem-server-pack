@@ -1,0 +1,8 @@
+* Fixed problems with textui being random all over the place.
+* Fixed correct check to ensure you can't put in any vehicle inside the garage.
+* Removed some expensive vehicles from the vehicle towing list.
+* Changed coords and markers up a little bit.
+* Fixed so that the props work to put out.
+* Added so you start the mission when inside a marker not with a command/keybind.
+* Fixed so that you can't remove objects from maps etc only the one you have put out and maybe what others have put out but have not tested that.
+* Removed the built in towing script that did not work and added another one thats super cool https://github.com/SupremeCatOG/towing
