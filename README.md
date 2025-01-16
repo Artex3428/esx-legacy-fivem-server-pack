@@ -5,3 +5,5 @@ preview: https://streamable.com/0xqqn9
 backup download link mega: https://mega.nz/file/9z1gHBwI#tk01kgJShcT8T2NlxYlpGANa-OdrlEOik50cPhEbCOo
 
 My discord server/also more stuff about the server: [[https://discord.gg/tu3WSFD4QT](https://discord.gg/tu3WSFD4QT)]
+
+!OBS the shopchop and houserobbery scripts is not somehow with on github download to get them download from mega :)
