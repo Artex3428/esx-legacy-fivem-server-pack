@@ -6,4 +6,4 @@ backup download link mega: https://mega.nz/file/9z1gHBwI#tk01kgJShcT8T2NlxYlpGAN
 
 My discord server/also more stuff about the server: [[https://discord.gg/tu3WSFD4QT](https://discord.gg/tu3WSFD4QT)]
 
-!OBS the shopchop and houserobbery scripts is not somehow with on github download to get them download from mega :)
+!OBS the lation_pawnshop and lation_247storereobbery or wathever they are called is not somehow with on github download to get them download from mega :) A fix is made on the new server
