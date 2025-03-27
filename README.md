@@ -1,3 +1,5 @@
+# !!! New server is out now https://github.com/Artex3428/esx-legacy-roleplay-server-2
+
 # esx-lgeacy-fivem-server
 This is a FiveM esx legacy roleplay server. It has everything you need.
 
